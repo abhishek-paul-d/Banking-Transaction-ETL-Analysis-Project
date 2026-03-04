@@ -1,0 +1,31 @@
+branch_id,branch_name,city,state
+1,Downtown,New York,NY
+2,Uptown,Los Angeles,CA
+3,Midtown,Chicago,IL
+4,Central,Houston,TX
+5,Westside,Phoenix,AZ
+6,Northside,Philadelphia,PA
+7,Eastside,San Antonio,TX
+8,Harbor,San Diego,CA
+9,Riverfront,Portland,OR
+10,Lakeside,Seattle,WA
+11,Downtown,New York,NY      
+12,New Branch,,TX             
+13,Central,Miami,FL
+14,Northside,Boston,MA
+15,Westside,Denver,CO
+16,Eastside,Orlando,FL
+17,Harbor,Las Vegas,NV
+18,Riverfront,Minneapolis,MN
+19,Lakeside,Detroit,MI
+20,Midtown,Houston,TX
+21,Downtown,Atlanta,GA
+22,Uptown,San Jose,CA
+23,Westside,Austin,TX
+24,Eastside,Portland,OR
+25,Harbor,Chicago,IL
+26,Riverfront,Miami,FL
+27,Lakeside,New York,NY
+28,Central,Los Angeles,CA
+29,New Branch,,FL           
+30,Downtown,Seattle,WA

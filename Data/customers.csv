@@ -1,0 +1,31 @@
+customer_id,name,email,city,state
+1,Alice Johnson,alice@gmail.com,New York,NY
+2,Bob Smith,bob@gmail.com,Los Angeles,CA
+3,Charlie Brown,charlie@gmail.com,Chicago,IL
+4,Diana Prince,diana@gmail.com,Houston,TX
+5,Ethan Hunt,ethan@gmail.com,Phoenix,AZ
+6,Fiona Gallagher,fiona@gmail.com,Philadelphia,PA
+7,George Clooney,george@gmail.com,San Antonio,TX
+8,Hannah Baker,hannah@gmail.com,Dallas,TX
+9,Ian Somerhalder,ian@gmail.com,Dallas,TX
+10,Julia Roberts,julia@gmail.com,San Jose,CA
+11,Kate Winslet,kate@gmail.com,Austin,TX
+12,Leonardo DiCaprio,leo@gmail.com,Miami,FL
+13,Morgan Freeman,morgan@gmail.com,Seattle,WA
+14,Natalie Portman,natalie@gmail.com,Boston,MA
+15,Oscar Isaac,oscar@gmail.com,Denver,CO
+16,Penelope Cruz,penelope@gmail.com,Orlando,FL
+17,Quentin Tarantino,quentin@gmail.com,Las Vegas,NV
+18,Ryan Gosling,ryan@gmail.com,Portland,OR
+19,Sandra Bullock,sandra@gmail.com,Atlanta,GA
+20,Tom Hanks,tom@gmail.com,San Diego,CA
+21,Uma Thurman,uma@gmail.com,Minneapolis,MN
+22,Vanessa Hudgens,vanessa@gmail.com,Detroit,MI
+23,Will Smith,will@gmail.com,Houston,TX
+24,Xavier Dolan,xavier@gmail.com,Chicago,IL
+25,Yvonne Strahovski,yvonne@gmail.com,New York,NY
+26,Zachary Levi,zachary@gmail.com,Los Angeles,CA
+27,,null@null.com,,TX          
+28,Test User,testuser@example.com,,CA 
+29,John Doe,john@example.com,,   
+30,Mary Jane,mary@gmail.com,Miami,FL
