@@ -1,5 +1,5 @@
-#Banking Transaction ETL & Analysis Project
-##Project Overview
+# Banking Transaction ETL & Analysis Project
+## Project Overview
 
 This project simulates a banking transaction analytics system. The goal is to build an end-to-end ETL pipeline, clean raw data, model it into a star schema, and generate SQL queries to extract actionable insights.
 
@@ -158,4 +158,5 @@ Customer transaction patterns
 Monthly transaction trends
 
 Developed SQL skills for real-world data analysis, suitable for Data Analyst roles.
+
 
